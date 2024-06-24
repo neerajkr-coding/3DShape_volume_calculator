@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity{
                 }else if(i==4){
                     intent = new Intent(getApplicationContext() , activity_realcube.class);
                     startActivity(intent);
-                }else if(i==4){
+                }else if(i==5){
                     intent = new Intent(getApplicationContext() , hemisphereActivity.class);
                     startActivity(intent);
                 }
